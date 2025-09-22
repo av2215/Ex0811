@@ -32,6 +32,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"
+            android:onClick="hibur"
             android:text="+" />
 
         <Space
@@ -44,6 +45,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"
+            android:onClick="hisur"
             android:text="-" />
 
         <Space
@@ -56,6 +58,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"
+            android:onClick="kefel"
             android:text="*" />
 
         <Space
@@ -68,6 +71,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"
+            android:onClick="hiluk"
             android:text="/" />
 
         <Space
@@ -92,6 +96,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2.5"
+            android:onClick="reset"
             android:text="A/C" />
 
         <Space
@@ -104,6 +109,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2.5"
+            android:onClick="worth"
             android:text="=" />
 
         <Space
@@ -133,6 +139,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"
+            android:onClick="credit"
             android:text="credits" />
 
         <Space
